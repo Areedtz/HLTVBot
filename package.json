@@ -1,0 +1,23 @@
+{
+    "name": "hltvbot",
+    "version": "0.0.1",
+    "description": "",
+    "main": "bot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Areedtz/HLTVBot.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Areedtz/HLTVBot/issues"
+    },
+    "homepage": "https://github.com/Areedtz/HLTVBot#readme",
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "hltv": "^2.15.0"
+    }
+}
